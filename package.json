@@ -1,5 +1,5 @@
 {
-  "name": "mars3d-vue-template",
+  "name": "mars3d-vue-template-cdn",
   "version": "3.0.3",
   "description": "Mars3D平台,Vue最简项目模版(CDN)",
   "main": "index.js",
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marsgis/mars3d-vue-template.git"
+    "url": "https://github.com/marsgis/mars3d-vue-template-cdn.git"
   },
   "bugs": {
-    "url": "https://github.com/marsgis/mars3d-vue-template/issues",
+    "url": "https://github.com/marsgis/mars3d-vue-template-cdn/issues",
     "email": "wh@marsgis.cn"
   },
   "keywords": [
