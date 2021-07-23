@@ -45,7 +45,7 @@ import Map from '../components/mars3d/Map.vue'
 ```
 
 4. ### 如果您希望用npm方式更优雅使用mars3d，可以切换至下面模版进行使用
-   最简项目(NPM版)[https://github.com/muyao1987/mars3d-vue-template](https://github.com/muyao1987/mars3d-vue-template)    `npm引入Cesium和mars3d`
+   最简项目(NPM版)[https://github.com/marsgis/mars3d-vue-template](https://github.com/marsgis/mars3d-vue-template)    `npm引入Cesium和mars3d`
 
 
 ## Mars3D 是什么 
