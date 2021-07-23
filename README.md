@@ -1,4 +1,4 @@
-# Mars3D最简项目模版 - Vue版（cdn引入Cesium）
+# Mars3D最简项目模版 - Vue版（CDN方式引入）
     Mars3D平台，在`Vue技术栈下`的最简的应用项目模版，基于vueCli 4.x 
    
 
